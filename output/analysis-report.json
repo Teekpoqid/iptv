@@ -1,0 +1,3972 @@
+{
+    "playlist_count": 440,
+    "totals": {
+        "channels": 21108,
+        "missing_tvg_id": 2692,
+        "missing_tvg_name": 18905,
+        "duplicate_ids": 3638,
+        "duplicate_urls": 25
+    },
+    "playlists": [
+        {
+            "source": "Free-TV",
+            "file": "Free-TV--IPTV\\playlist.m3u8",
+            "channels": 2203,
+            "missing_tvg_id": 569,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 49,
+            "duplicate_urls": 24
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ad.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ae.m3u",
+            "channels": 50,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 50,
+            "duplicate_ids": 8,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\af.m3u",
+            "channels": 16,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 16,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ag.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\al.m3u",
+            "channels": 25,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 25,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\am.m3u",
+            "channels": 13,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 13,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ao.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ar.m3u",
+            "channels": 242,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 242,
+            "duplicate_ids": 39,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\at.m3u",
+            "channels": 47,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 47,
+            "duplicate_ids": 8,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\at_pluto.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\at_samsung.m3u",
+            "channels": 4,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\au.m3u",
+            "channels": 54,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 54,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\au_samsung.m3u",
+            "channels": 85,
+            "missing_tvg_id": 25,
+            "missing_tvg_name": 85,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\aw.m3u",
+            "channels": 15,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 15,
+            "duplicate_ids": 4,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\az.m3u",
+            "channels": 20,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 20,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ba.m3u",
+            "channels": 21,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 21,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ba_morescreens.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bb.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bd.m3u",
+            "channels": 37,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 37,
+            "duplicate_ids": 10,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\be.m3u",
+            "channels": 62,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 62,
+            "duplicate_ids": 21,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\be_samsung.m3u",
+            "channels": 3,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bf.m3u",
+            "channels": 6,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 6,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bg.m3u",
+            "channels": 79,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 79,
+            "duplicate_ids": 9,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bh.m3u",
+            "channels": 5,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 5,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bi.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bj.m3u",
+            "channels": 12,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 12,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bm.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bn.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bo.m3u",
+            "channels": 111,
+            "missing_tvg_id": 13,
+            "missing_tvg_name": 111,
+            "duplicate_ids": 29,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bq.m3u",
+            "channels": 6,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 6,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\br.m3u",
+            "channels": 391,
+            "missing_tvg_id": 3,
+            "missing_tvg_name": 391,
+            "duplicate_ids": 112,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\br_pluto.m3u",
+            "channels": 165,
+            "missing_tvg_id": 41,
+            "missing_tvg_name": 165,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\br_samsung.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bs.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bw.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\by.m3u",
+            "channels": 33,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 33,
+            "duplicate_ids": 11,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bz.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\bz_nexgen.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ca.m3u",
+            "channels": 136,
+            "missing_tvg_id": 17,
+            "missing_tvg_name": 136,
+            "duplicate_ids": 12,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ca_pluto.m3u",
+            "channels": 205,
+            "missing_tvg_id": 79,
+            "missing_tvg_name": 205,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ca_samsung.m3u",
+            "channels": 6,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 6,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ca_stingray.m3u",
+            "channels": 55,
+            "missing_tvg_id": 26,
+            "missing_tvg_name": 55,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cd.m3u",
+            "channels": 19,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 19,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cf.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cg.m3u",
+            "channels": 6,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 6,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ch.m3u",
+            "channels": 33,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 33,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ch_pluto.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ch_samsung.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ci.m3u",
+            "channels": 20,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 20,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cl.m3u",
+            "channels": 226,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 226,
+            "duplicate_ids": 28,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cm.m3u",
+            "channels": 19,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 19,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cn.m3u",
+            "channels": 518,
+            "missing_tvg_id": 234,
+            "missing_tvg_name": 518,
+            "duplicate_ids": 137,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cn_112114.m3u",
+            "channels": 16,
+            "missing_tvg_id": 16,
+            "missing_tvg_name": 16,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cn_cctv.m3u",
+            "channels": 14,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 14,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cn_cgtn.m3u",
+            "channels": 12,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 12,
+            "duplicate_ids": 6,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cn_yeslivetv.m3u",
+            "channels": 1,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\co.m3u",
+            "channels": 285,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 285,
+            "duplicate_ids": 160,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cr.m3u",
+            "channels": 103,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 103,
+            "duplicate_ids": 32,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cu.m3u",
+            "channels": 4,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cv.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cw.m3u",
+            "channels": 5,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 5,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cy.m3u",
+            "channels": 20,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 20,
+            "duplicate_ids": 4,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\cz.m3u",
+            "channels": 93,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 93,
+            "duplicate_ids": 6,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\de.m3u",
+            "channels": 277,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 277,
+            "duplicate_ids": 58,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\de_pluto.m3u",
+            "channels": 181,
+            "missing_tvg_id": 100,
+            "missing_tvg_name": 181,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\de_rakuten.m3u",
+            "channels": 34,
+            "missing_tvg_id": 25,
+            "missing_tvg_name": 34,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\de_samsung.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\dj.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\dk.m3u",
+            "channels": 11,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 11,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\dk_pluto.m3u",
+            "channels": 237,
+            "missing_tvg_id": 60,
+            "missing_tvg_name": 237,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\dk_samsung.m3u",
+            "channels": 8,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 8,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\dm.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\do.m3u",
+            "channels": 267,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 267,
+            "duplicate_ids": 15,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\dz.m3u",
+            "channels": 9,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 9,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ec.m3u",
+            "channels": 103,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 103,
+            "duplicate_ids": 19,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ee.m3u",
+            "channels": 27,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 27,
+            "duplicate_ids": 5,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\eg.m3u",
+            "channels": 18,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 18,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\eh.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\er.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\es.m3u",
+            "channels": 314,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 314,
+            "duplicate_ids": 48,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\es_pluto.m3u",
+            "channels": 137,
+            "missing_tvg_id": 62,
+            "missing_tvg_name": 137,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\es_rakuten.m3u",
+            "channels": 36,
+            "missing_tvg_id": 16,
+            "missing_tvg_name": 36,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\es_samsung.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\es_yowi.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\et.m3u",
+            "channels": 7,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 7,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fi.m3u",
+            "channels": 31,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 31,
+            "duplicate_ids": 8,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fi_rakuten.m3u",
+            "channels": 18,
+            "missing_tvg_id": 7,
+            "missing_tvg_name": 18,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fi_samsung.m3u",
+            "channels": 8,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 8,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fj.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fm.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fo.m3u",
+            "channels": 1,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fr.m3u",
+            "channels": 269,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 269,
+            "duplicate_ids": 90,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fr_bfm.m3u",
+            "channels": 15,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 15,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fr_fashiontv.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fr_groupecanalplus.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fr_groupem6.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fr_persiana.m3u",
+            "channels": 23,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 23,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fr_pluto.m3u",
+            "channels": 128,
+            "missing_tvg_id": 59,
+            "missing_tvg_name": 128,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fr_rakuten.m3u",
+            "channels": 61,
+            "missing_tvg_id": 44,
+            "missing_tvg_name": 61,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fr_samsung.m3u",
+            "channels": 3,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\fr_traceplus.m3u",
+            "channels": 26,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 26,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ga.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ge.m3u",
+            "channels": 26,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 26,
+            "duplicate_ids": 5,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\gf.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\gh.m3u",
+            "channels": 14,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 14,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\gl.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\gm.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\gn.m3u",
+            "channels": 5,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 5,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\gp.m3u",
+            "channels": 5,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 5,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\gq.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\gr.m3u",
+            "channels": 77,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 77,
+            "duplicate_ids": 6,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\gt.m3u",
+            "channels": 64,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 64,
+            "duplicate_ids": 14,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\gt_streamhispanatv.m3u",
+            "channels": 19,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 19,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\gu.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\gy.m3u",
+            "channels": 4,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\hk.m3u",
+            "channels": 26,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 26,
+            "duplicate_ids": 5,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\hn.m3u",
+            "channels": 90,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 90,
+            "duplicate_ids": 12,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\hr.m3u",
+            "channels": 28,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 28,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ht.m3u",
+            "channels": 20,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 20,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\hu.m3u",
+            "channels": 168,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 168,
+            "duplicate_ids": 14,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\id.m3u",
+            "channels": 180,
+            "missing_tvg_id": 5,
+            "missing_tvg_name": 180,
+            "duplicate_ids": 16,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\id_denstv.m3u",
+            "channels": 46,
+            "missing_tvg_id": 4,
+            "missing_tvg_name": 46,
+            "duplicate_ids": 6,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ie.m3u",
+            "channels": 14,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 14,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ie_samsung.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\il.m3u",
+            "channels": 46,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 46,
+            "duplicate_ids": 7,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\in.m3u",
+            "channels": 1817,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 1817,
+            "duplicate_ids": 997,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\in_distro.m3u",
+            "channels": 16,
+            "missing_tvg_id": 8,
+            "missing_tvg_name": 16,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\in_doordarshan.m3u",
+            "channels": 35,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 35,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\in_pishow.m3u",
+            "channels": 92,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 92,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\in_samsung.m3u",
+            "channels": 4,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\iq.m3u",
+            "channels": 72,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 72,
+            "duplicate_ids": 12,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ir.m3u",
+            "channels": 31,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 31,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ir_telewebion.m3u",
+            "channels": 69,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 69,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ir_wnslive.m3u",
+            "channels": 54,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 54,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\is.m3u",
+            "channels": 4,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\it.m3u",
+            "channels": 367,
+            "missing_tvg_id": 9,
+            "missing_tvg_name": 367,
+            "duplicate_ids": 54,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\it_pluto.m3u",
+            "channels": 117,
+            "missing_tvg_id": 53,
+            "missing_tvg_name": 117,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\it_rakuten.m3u",
+            "channels": 29,
+            "missing_tvg_id": 20,
+            "missing_tvg_name": 29,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\it_samsung.m3u",
+            "channels": 12,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 12,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\jm.m3u",
+            "channels": 9,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 9,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\jo.m3u",
+            "channels": 19,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 19,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\jp.m3u",
+            "channels": 28,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 28,
+            "duplicate_ids": 7,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ke.m3u",
+            "channels": 38,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 38,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\kg.m3u",
+            "channels": 12,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 12,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\kh.m3u",
+            "channels": 34,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 34,
+            "duplicate_ids": 8,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\kh_happywatch99.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\km.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\kn.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\kp.m3u",
+            "channels": 7,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 7,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\kr.m3u",
+            "channels": 87,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 87,
+            "duplicate_ids": 14,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\kw.m3u",
+            "channels": 16,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 16,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\kz.m3u",
+            "channels": 66,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 66,
+            "duplicate_ids": 16,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\la.m3u",
+            "channels": 9,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 9,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\lb.m3u",
+            "channels": 36,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 36,
+            "duplicate_ids": 4,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\lc.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\li.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\lk.m3u",
+            "channels": 20,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 20,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\lr.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\lt.m3u",
+            "channels": 21,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 21,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\lu.m3u",
+            "channels": 13,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 13,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\lu_samsung.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\lv.m3u",
+            "channels": 20,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 20,
+            "duplicate_ids": 4,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ly.m3u",
+            "channels": 6,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 6,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ma.m3u",
+            "channels": 14,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 14,
+            "duplicate_ids": 4,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mc.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\md.m3u",
+            "channels": 24,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 24,
+            "duplicate_ids": 5,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\me.m3u",
+            "channels": 8,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 8,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mg.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mk.m3u",
+            "channels": 35,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 35,
+            "duplicate_ids": 4,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ml.m3u",
+            "channels": 5,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 5,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mm.m3u",
+            "channels": 20,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 20,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mn.m3u",
+            "channels": 7,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 7,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mn_skygo.m3u",
+            "channels": 92,
+            "missing_tvg_id": 11,
+            "missing_tvg_name": 92,
+            "duplicate_ids": 37,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mo.m3u",
+            "channels": 10,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 10,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mq.m3u",
+            "channels": 6,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 6,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mr.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mt.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mt_smashplus.m3u",
+            "channels": 23,
+            "missing_tvg_id": 15,
+            "missing_tvg_name": 23,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mu.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mv.m3u",
+            "channels": 14,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 14,
+            "duplicate_ids": 4,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mw.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mx.m3u",
+            "channels": 217,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 217,
+            "duplicate_ids": 52,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mx_amagi.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mx_multimedios.m3u",
+            "channels": 9,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 9,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mx_pluto.m3u",
+            "channels": 192,
+            "missing_tvg_id": 57,
+            "missing_tvg_name": 192,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mx_samsung.m3u",
+            "channels": 6,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 6,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\my.m3u",
+            "channels": 6,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 6,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\mz.m3u",
+            "channels": 8,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 8,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\na.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\nc.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ne.m3u",
+            "channels": 4,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ng.m3u",
+            "channels": 56,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 56,
+            "duplicate_ids": 5,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ni.m3u",
+            "channels": 24,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 24,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\nl.m3u",
+            "channels": 228,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 228,
+            "duplicate_ids": 25,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\nl_samsung.m3u",
+            "channels": 17,
+            "missing_tvg_id": 6,
+            "missing_tvg_name": 17,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\no.m3u",
+            "channels": 21,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 21,
+            "duplicate_ids": 11,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\no_pluto.m3u",
+            "channels": 183,
+            "missing_tvg_id": 42,
+            "missing_tvg_name": 183,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\no_samsung.m3u",
+            "channels": 8,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 8,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\np.m3u",
+            "channels": 22,
+            "missing_tvg_id": 7,
+            "missing_tvg_name": 22,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\nz.m3u",
+            "channels": 23,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 23,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\nz_samsung.m3u",
+            "channels": 69,
+            "missing_tvg_id": 16,
+            "missing_tvg_name": 69,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\om.m3u",
+            "channels": 7,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 7,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\pa.m3u",
+            "channels": 24,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 24,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\pe.m3u",
+            "channels": 265,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 265,
+            "duplicate_ids": 84,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\pe_opencaster.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\pf.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\pg.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ph.m3u",
+            "channels": 11,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 11,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ph_comclark.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\pk.m3u",
+            "channels": 128,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 128,
+            "duplicate_ids": 22,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\pl.m3u",
+            "channels": 173,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 173,
+            "duplicate_ids": 20,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\pl_mediateka.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\pl_rakuten.m3u",
+            "channels": 48,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 48,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\pr.m3u",
+            "channels": 38,
+            "missing_tvg_id": 5,
+            "missing_tvg_name": 38,
+            "duplicate_ids": 5,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ps.m3u",
+            "channels": 23,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 23,
+            "duplicate_ids": 4,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\pt.m3u",
+            "channels": 61,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 61,
+            "duplicate_ids": 4,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\pt_samsung.m3u",
+            "channels": 2,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\py.m3u",
+            "channels": 89,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 89,
+            "duplicate_ids": 20,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\qa.m3u",
+            "channels": 54,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 54,
+            "duplicate_ids": 35,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ro.m3u",
+            "channels": 203,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 203,
+            "duplicate_ids": 17,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\rs.m3u",
+            "channels": 56,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 56,
+            "duplicate_ids": 5,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ru.m3u",
+            "channels": 686,
+            "missing_tvg_id": 4,
+            "missing_tvg_name": 686,
+            "duplicate_ids": 270,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ru_15plusmg.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ru_bonustv.m3u",
+            "channels": 28,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 28,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ru_catcast.m3u",
+            "channels": 28,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 28,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ru_mylifeisgood.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ru_ntv.m3u",
+            "channels": 10,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 10,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ru_rt.m3u",
+            "channels": 14,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 14,
+            "duplicate_ids": 8,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ru_smotrim.m3u",
+            "channels": 263,
+            "missing_tvg_id": 4,
+            "missing_tvg_name": 263,
+            "duplicate_ids": 211,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ru_televizor24.m3u",
+            "channels": 33,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 33,
+            "duplicate_ids": 6,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ru_tvbricks.m3u",
+            "channels": 5,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 5,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ru_tvteleport.m3u",
+            "channels": 110,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 110,
+            "duplicate_ids": 11,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ru_zabava.m3u",
+            "channels": 35,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 35,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\rw.m3u",
+            "channels": 9,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 9,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\sa.m3u",
+            "channels": 71,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 71,
+            "duplicate_ids": 15,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\sd.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\se.m3u",
+            "channels": 12,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 12,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\se_pluto.m3u",
+            "channels": 201,
+            "missing_tvg_id": 43,
+            "missing_tvg_name": 201,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\se_samsung.m3u",
+            "channels": 24,
+            "missing_tvg_id": 6,
+            "missing_tvg_name": 24,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\sg.m3u",
+            "channels": 40,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 40,
+            "duplicate_ids": 4,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\si.m3u",
+            "channels": 19,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 19,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\si_xploretv.m3u",
+            "channels": 5,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 5,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\sk.m3u",
+            "channels": 63,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 63,
+            "duplicate_ids": 5,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\sk_antik.m3u",
+            "channels": 53,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 53,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\sl.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\sm.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\sn.m3u",
+            "channels": 14,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 14,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\so.m3u",
+            "channels": 9,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 9,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\so_premiumfree.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\sr.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\st.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\sv.m3u",
+            "channels": 50,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 50,
+            "duplicate_ids": 11,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\sx.m3u",
+            "channels": 8,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 8,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\sy.m3u",
+            "channels": 15,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 15,
+            "duplicate_ids": 5,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\td.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\tg.m3u",
+            "channels": 11,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 11,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\th.m3u",
+            "channels": 85,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 85,
+            "duplicate_ids": 18,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\th_v2hcdn.m3u",
+            "channels": 8,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 8,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\tj.m3u",
+            "channels": 17,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 17,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\tl.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\tm.m3u",
+            "channels": 16,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 16,
+            "duplicate_ids": 8,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\tn.m3u",
+            "channels": 6,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 6,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\tr.m3u",
+            "channels": 214,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 214,
+            "duplicate_ids": 41,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\tr_gem.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\tr_onetv.m3u",
+            "channels": 28,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 28,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\tt.m3u",
+            "channels": 9,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 9,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\tw.m3u",
+            "channels": 56,
+            "missing_tvg_id": 27,
+            "missing_tvg_name": 56,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\tz.m3u",
+            "channels": 9,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 9,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ua.m3u",
+            "channels": 210,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 210,
+            "duplicate_ids": 29,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ug.m3u",
+            "channels": 23,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 23,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\uk.m3u",
+            "channels": 228,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 228,
+            "duplicate_ids": 38,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\uk_bbc.m3u",
+            "channels": 161,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 161,
+            "duplicate_ids": 99,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\uk_distro.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\uk_pluto.m3u",
+            "channels": 185,
+            "missing_tvg_id": 103,
+            "missing_tvg_name": 185,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\uk_rakuten.m3u",
+            "channels": 66,
+            "missing_tvg_id": 29,
+            "missing_tvg_name": 66,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\uk_samsung.m3u",
+            "channels": 176,
+            "missing_tvg_id": 93,
+            "missing_tvg_name": 176,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\uk_sportstribal.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us.m3u",
+            "channels": 1088,
+            "missing_tvg_id": 21,
+            "missing_tvg_name": 1088,
+            "duplicate_ids": 200,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_30a.m3u",
+            "channels": 16,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 16,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_3abn.m3u",
+            "channels": 10,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 10,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_abcnews.m3u",
+            "channels": 10,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 10,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_afrolandtv.m3u",
+            "channels": 22,
+            "missing_tvg_id": 22,
+            "missing_tvg_name": 22,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_amagi.m3u",
+            "channels": 6,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 6,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_canelatv.m3u",
+            "channels": 27,
+            "missing_tvg_id": 19,
+            "missing_tvg_name": 27,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_cbsn.m3u",
+            "channels": 21,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 21,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_cineversetv.m3u",
+            "channels": 22,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 22,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_distro.m3u",
+            "channels": 8,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 8,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_firetv.m3u",
+            "channels": 38,
+            "missing_tvg_id": 14,
+            "missing_tvg_name": 38,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_frequency.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_glewedtv.m3u",
+            "channels": 12,
+            "missing_tvg_id": 4,
+            "missing_tvg_name": 12,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_klowdtv.m3u",
+            "channels": 96,
+            "missing_tvg_id": 25,
+            "missing_tvg_name": 96,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_local.m3u",
+            "channels": 178,
+            "missing_tvg_id": 5,
+            "missing_tvg_name": 178,
+            "duplicate_ids": 4,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_malimartv.m3u",
+            "channels": 7,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 7,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_pbs.m3u",
+            "channels": 16,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 16,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_plex.m3u",
+            "channels": 24,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 24,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_pluto.m3u",
+            "channels": 400,
+            "missing_tvg_id": 105,
+            "missing_tvg_name": 400,
+            "duplicate_ids": 3,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_roku.m3u",
+            "channels": 32,
+            "missing_tvg_id": 5,
+            "missing_tvg_name": 32,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_samsung.m3u",
+            "channels": 407,
+            "missing_tvg_id": 208,
+            "missing_tvg_name": 407,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_sofast.m3u",
+            "channels": 83,
+            "missing_tvg_id": 73,
+            "missing_tvg_name": 83,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_ssh101.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_stirr.m3u",
+            "channels": 89,
+            "missing_tvg_id": 30,
+            "missing_tvg_name": 89,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_tcl.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_tubi.m3u",
+            "channels": 155,
+            "missing_tvg_id": 53,
+            "missing_tvg_name": 155,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_uplynk.m3u",
+            "channels": 22,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 22,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_vegasplus.m3u",
+            "channels": 8,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 8,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_vizio.m3u",
+            "channels": 13,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 13,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_wcetv.m3u",
+            "channels": 12,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 12,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_wfmz.m3u",
+            "channels": 4,
+            "missing_tvg_id": 4,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_wowza.m3u",
+            "channels": 62,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 62,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\us_xumo.m3u",
+            "channels": 107,
+            "missing_tvg_id": 40,
+            "missing_tvg_name": 107,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\uy.m3u",
+            "channels": 10,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 10,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\uz.m3u",
+            "channels": 38,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 38,
+            "duplicate_ids": 4,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\va.m3u",
+            "channels": 4,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\vc.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ve.m3u",
+            "channels": 95,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 95,
+            "duplicate_ids": 13,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\vg.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\vi.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\vn.m3u",
+            "channels": 109,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 109,
+            "duplicate_ids": 19,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ws.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\xk.m3u",
+            "channels": 11,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 11,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\ye.m3u",
+            "channels": 4,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\yt.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\za.m3u",
+            "channels": 23,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 23,
+            "duplicate_ids": 6,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\za_freevisiontv.m3u",
+            "channels": 6,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 6,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\zm.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\streams\\zw.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_edit\\playlist.m3u",
+            "channels": 2,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_export\\ad.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_export\\ca.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_export\\in.m3u",
+            "channels": 1,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_export\\uk.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_export\\unsorted.m3u",
+            "channels": 4,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_format\\at.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_format\\in.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_format\\nl.m3u",
+            "channels": 5,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 5,
+            "duplicate_ids": 2,
+            "duplicate_urls": 1
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_generate\\ad.m3u",
+            "channels": 4,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_generate\\ca.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_generate\\id_denstv.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_generate\\in.m3u",
+            "channels": 1,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_generate\\kg.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_generate\\qa.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_generate\\uk.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_generate\\unsorted.m3u",
+            "channels": 4,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_normalize\\bad_encoding.m3u",
+            "channels": 1,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_normalize\\reserved_escapes.m3u",
+            "channels": 4,
+            "missing_tvg_id": 4,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_update\\playlist.m3u8",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_validate\\invalid_url.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_validate\\log_level.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_validate\\missing_channel_id.m3u",
+            "channels": 1,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_validate\\missing_feed_id.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_validate\\missing_metadata.m3u",
+            "channels": 1,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_validate\\us_blocked.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_validate\\wrong_channel_id.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_validate\\wrong_feed_id.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\report_create\\br.m3u",
+            "channels": 2,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\report_create\\cy.m3u",
+            "channels": 2,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\report_create\\uk.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\report_create\\us.m3u",
+            "channels": 2,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_validate_paths\\streams\\example.m3u",
+            "channels": 1,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_update\\streams\\br.m3u",
+            "channels": 1,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_update\\streams\\br_example.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_update\\streams\\bz.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_update\\streams\\cy.m3u",
+            "channels": 3,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_update\\streams\\uk.m3u",
+            "channels": 3,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 3,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_test\\streams\\af.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_test\\streams\\ag.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\playlist_format\\nested\\nested.m3u",
+            "channels": 2,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\issue_validate\\streams\\br.m3u",
+            "channels": 1,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\input\\discussion_validate\\streams\\br.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_format\\at.m3u",
+            "channels": 2,
+            "missing_tvg_id": 2,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_format\\in.m3u",
+            "channels": 1,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_format\\nl.m3u",
+            "channels": 4,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 2,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_test\\af.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_test\\ag.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_update\\streams\\br_example.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_update\\streams\\bz.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_update\\streams\\cy.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_update\\streams\\fr.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_update\\streams\\uk.m3u",
+            "channels": 4,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_update\\streams\\us.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\index.category.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\index.country.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\index.language.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\index.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\animation.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\auto.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\business.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\classic.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\comedy.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\cooking.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\culture.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\documentary.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\education.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\entertainment.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\family.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\general.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\kids.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\legislative.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\lifestyle.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\movies.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\music.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\news.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\outdoor.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\relax.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\religious.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\science.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\series.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\shop.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\sports.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\travel.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\undefined.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\weather.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\categories\\xxx.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\cities\\adcan.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\countries\\ad.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\countries\\ca.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\countries\\int.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\countries\\undefined.m3u",
+            "channels": 0,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 0,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\languages\\cat.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\languages\\undefined.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\raw\\ad.m3u",
+            "channels": 4,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\raw\\ca.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\raw\\id_denstv.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\raw\\in.m3u",
+            "channels": 1,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\raw\\kg.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\raw\\qa.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 1,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\raw\\uk.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\raw\\unsorted.m3u",
+            "channels": 4,
+            "missing_tvg_id": 1,
+            "missing_tvg_name": 4,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\regions\\amer.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\regions\\emea.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\regions\\eur.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\regions\\nam.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\regions\\noram.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\regions\\ww.m3u",
+            "channels": 2,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 2,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\sources\\ad.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\sources\\ca.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\subdivisions\\ad-02.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\subdivisions\\ad-07.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        },
+        {
+            "source": "IPTV-org",
+            "file": "IPTV.org\\tests\\__data__\\expected\\playlist_generate\\.gh-pages\\subdivisions\\ca-on.m3u",
+            "channels": 1,
+            "missing_tvg_id": 0,
+            "missing_tvg_name": 1,
+            "duplicate_ids": 0,
+            "duplicate_urls": 0
+        }
+    ]
+}
